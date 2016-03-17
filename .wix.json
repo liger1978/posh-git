@@ -1,0 +1,10 @@
+﻿{
+    "UpgradeCodeX86":  "A1816B93-41D5-3303-C92A-B11C945E6F11",
+    "UpgradeCodeX64":  "0385B3FC-1783-B35F-43F9-58D31EB326C7",
+    "Manufacturer":  "dahlbyk@gmail.com",
+    "ProductShortName":  "posh-git",
+    "HelpLink":  "https://github.com/dahlbyk/posh-git",
+    "AboutLink":  "https://github.com/dahlbyk/posh-git",
+    "ProductVersion":  "0.6.0",
+    "ProductName":  "Windows PowerShell Module for Git"
+}
